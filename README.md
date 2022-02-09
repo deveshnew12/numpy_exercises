@@ -1,0 +1,2 @@
+# numpy_exercises
+numpy_practice_and_basic
